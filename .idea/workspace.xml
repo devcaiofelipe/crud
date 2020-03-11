@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4180cccc-3cf9-4daa-a570-17b0e157423c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pmysql/programa.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pmysql/utils.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1YxOjn0ACWxXN8cVc6WireUbUOv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pmysql" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pmysql" />
+      <recent name="$PROJECT_DIR$/pbase" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="programa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonDB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pbase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pbase/programa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.programa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4180cccc-3cf9-4daa-a570-17b0e157423c" name="Default Changelist" comment="" />
+      <created>1583880915188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583880915188</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="270" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583881078966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="270" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583881078966" />
+    <state width="1379" height="263" key="GridCell.Tab.0.bottom" timestamp="1583886953006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1379" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583886953006" />
+    <state width="1379" height="263" key="GridCell.Tab.0.center" timestamp="1583886953005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1379" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583886953005" />
+    <state width="1379" height="263" key="GridCell.Tab.0.left" timestamp="1583886953004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1379" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583886953004" />
+    <state width="1379" height="263" key="GridCell.Tab.0.right" timestamp="1583886953005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1379" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583886953005" />
+    <state x="464" y="155" key="SettingsEditor" timestamp="1583883035108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="155" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583883035108" />
+    <state x="643" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1583887505627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583887505627" />
+  </component>
+</project>
